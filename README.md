@@ -17,6 +17,7 @@
 ```
 
 The data folder contains the data used in this work; each folder is used or generated in stage (some samples are provided for clarification). For example :
+```
 -Normal: contains all the normal sequence’s frames in the dataset.
 -Abnormal: contains all the abnormal sequence’s frames of the dataset.
 -Frames and Frames_GT are two folders that contain the dataset’s frames with their Ground truth.
@@ -24,4 +25,4 @@ The data folder contains the data used in this work; each folder is used or gene
 -FramesComb: contains the results frames of the combination of attention maps with their original frames.
 -TrainValid: contains the data splitting into training and validation parts.
 -Results: contains the results of the localization of the anomalous objects in the frames.
-
+```
