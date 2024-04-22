@@ -16,7 +16,8 @@
 
 ```
 
-The data folder contains the data used in this work; each folder is used or generated in stage (some samples are provided for clarification). For example :
+The data folder contains the data used in this work; each folder is used or generated in stage (some samples are provided for clarification). 
+For example :
 ```
 -Normal: contains all the normal sequence’s frames in the dataset.
 -Abnormal: contains all the abnormal sequence’s frames of the dataset.
