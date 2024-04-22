@@ -1,4 +1,4 @@
-# ADViTUNet1
+# ADViTUNet
 
 
 ## Dataset preparation
@@ -27,3 +27,10 @@ For example :
 -TrainValid: contains the data splitting into training and validation parts.
 -Results: contains the results of the localization of the anomalous objects in the frames.
 ```
+
+## The order of file execution
+1. ViT-model-Anomaly-Ped1-Train
+2. ViT-classification-Anomaly-Test
+3. Generate_AttentionMap
+4. ViT_Unet_Model
+5. ViT-Vanilla-UNet
